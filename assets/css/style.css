@@ -1,0 +1,93 @@
+/* Services section */
+.services {
+  text-align: center;
+  padding: 100px 10% !important;
+}
+.services .row {
+  justify-content: center;
+}
+.services h2 {
+  margin: 0 0 50px 0;
+}
+.services .col-lg-3 {
+  background-color: var(--solid-sixth-color);
+  box-shadow: 0 10px 100px rgba(220, 220, 220, 1);
+  padding: 0 0;
+  margin: 10px 10px;
+  flex-grow: 1;
+}
+.services .service {
+  min-height: 250px;
+}
+.services .description {
+  padding: 20px;
+}
+.description button {
+  margin: 40px 0;
+}
+.service-1 {
+  background: linear-gradient(
+      180deg,
+      rgba(100, 100, 100, 0.3) 0%,
+      rgba(100, 100, 100, 0.2) 80%,
+      rgba(100, 100, 100, 0.1) 100%
+    ),
+    url("...");
+  background-position: center;
+  background-size: cover;
+}
+.service-2 {
+  background: linear-gradient(
+      180deg,
+      rgba(100, 100, 100, 0.3) 0%,
+      rgba(100, 100, 100, 0.2) 80%,
+      rgba(100, 100, 100, 0.1) 100%
+    ),
+    url("...");
+  background-position: center;
+  background-size: cover;
+}
+.service-3 {
+  background: linear-gradient(
+      180deg,
+      rgba(100, 100, 100, 0.3) 0%,
+      rgba(100, 100, 100, 0.2) 80%,
+      rgba(100, 100, 100, 0.1) 100%
+    ),
+    url("...");
+  background-position: center;
+  background-size: cover;
+}
+.service-4 {
+  background: linear-gradient(
+      180deg,
+      rgba(100, 100, 100, 0.3) 0%,
+      rgba(100, 100, 100, 0.2) 80%,
+      rgba(100, 100, 100, 0.1) 100%
+    ),
+    url("...");
+  background-position: center;
+  background-size: cover;
+}
+.service-5 {
+  background: linear-gradient(
+      180deg,
+      rgba(100, 100, 100, 0.3) 0%,
+      rgba(100, 100, 100, 0.2) 80%,
+      rgba(100, 100, 100, 0.1) 100%
+    ),
+    url("...");
+  background-position: center;
+  background-size: cover;
+}
+.service-6 {
+  background: linear-gradient(
+      180deg,
+      rgba(100, 100, 100, 0.3) 0%,
+      rgba(100, 100, 100, 0.2) 80%,
+      rgba(100, 100, 100, 0.1) 100%
+    ),
+    url("...");
+  background-position: center;
+  background-size: cover;
+}
